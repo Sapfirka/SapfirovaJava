@@ -1,4 +1,4 @@
-public class Part3 {
+public class MultipleOfThree {
     public static void main(String[] args) {
         int[] array = {5, 8, 6, 14, 18, 21, 17, 33, 24, 16};
 
