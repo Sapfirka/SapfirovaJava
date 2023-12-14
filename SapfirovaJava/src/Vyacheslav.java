@@ -1,4 +1,4 @@
-public class Part2 {
+public class Vyacheslav {
     public static void main(String[] args) {
         String name = "Вячеслав";
         if (name.equals("Вячеслав")) {
